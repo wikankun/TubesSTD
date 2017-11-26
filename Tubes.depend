@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1490180323 source:c:\users\pc\desktop\codeblocks\tubes\main.cpp
+	"relasi.h"
+
+1490180323 source:c:\users\pc\desktop\codeblocks\tubes\actor.cpp
+	"actor.h"
+
+1490181315 c:\users\pc\desktop\codeblocks\tubes\actor.h
+	"main.h"
+
+1490181315 c:\users\pc\desktop\codeblocks\tubes\film.h
+	"main.h"
+
+1490181315 c:\users\pc\desktop\codeblocks\tubes\main.h
+	<iostream>
+	<cstddef>
+	<stddef.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1490180323 source:c:\users\pc\desktop\codeblocks\tubes\film.cpp
+	"film.h"
+
+1490174939 source:c:\users\pc\desktop\codeblocks\tubes\relasi.cpp
+	"relasi.h"
+
+1490180825 c:\users\pc\desktop\codeblocks\tubes\relasi.h
+	"actor.h"
+	"film.h"
+
+1490181328 c:\users\pc\desktop\codeblocks\tubes\menu.h
+	"relasi.h"
+
+1490180509 source:c:\users\pc\desktop\codeblocks\tubes\menu.cpp
+	"menu.h"
+
+1490180323 source:e:\tubes asd\rename jadi 'tubes.rar' ya\tubes\actor.cpp
+	"actor.h"
+
+1490181315 e:\tubes asd\rename jadi 'tubes.rar' ya\tubes\actor.h
+	"main.h"
+
+1490181339 e:\tubes asd\rename jadi 'tubes.rar' ya\tubes\main.h
+	<iostream>
+	<cstddef>
+	<stddef.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1490180323 source:e:\tubes asd\rename jadi 'tubes.rar' ya\tubes\film.cpp
+	"film.h"
+
+1490181315 e:\tubes asd\rename jadi 'tubes.rar' ya\tubes\film.h
+	"main.h"
+
+1490180323 source:e:\tubes asd\rename jadi 'tubes.rar' ya\tubes\main.cpp
+	"relasi.h"
+
+1490180825 e:\tubes asd\rename jadi 'tubes.rar' ya\tubes\relasi.h
+	"actor.h"
+	"film.h"
+
+1490174939 source:e:\tubes asd\rename jadi 'tubes.rar' ya\tubes\relasi.cpp
+	"relasi.h"
+
+1490664846 source:c:\users\pc\desktop\codeblocks\tubes@rar\tubes\actor.cpp
+	"actor.h"
+
+1490181315 c:\users\pc\desktop\codeblocks\tubes@rar\tubes\actor.h
+	"main.h"
+
+1490181339 c:\users\pc\desktop\codeblocks\tubes@rar\tubes\main.h
+	<iostream>
+	<cstddef>
+	<stddef.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1490679726 source:c:\users\pc\desktop\codeblocks\tubes@rar\tubes\film.cpp
+	"film.h"
+
+1490677777 c:\users\pc\desktop\codeblocks\tubes@rar\tubes\film.h
+	"main.h"
+
+1490174939 source:c:\users\pc\desktop\codeblocks\tubes@rar\tubes\relasi.cpp
+	"relasi.h"
+
+1490679726 c:\users\pc\desktop\codeblocks\tubes@rar\tubes\relasi.h
+	"actor.h"
+	"film.h"
+
+1490668645 source:c:\users\pc\desktop\codeblocks\tubes@rar\tubes\main.cpp
+	<string>
+	<cstddef>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"relasi.h"
+	"film.h"
+	"actor.h"
+	"menu.h"
+
+1490654286 c:\users\pc\desktop\codeblocks\tubes@rar\tubes\menu.h
+	"relasi.h"
+
+1490679918 source:c:\users\pc\desktop\codeblocks\tubes@rar\tubes\menu.cpp
+	"menu.h"
+
+1490664846 source:e:\tubes asd\tubes@rar\tubes\actor.cpp
+	"actor.h"
+
+1490181315 e:\tubes asd\tubes@rar\tubes\actor.h
+	"main.h"
+
+1490181339 e:\tubes asd\tubes@rar\tubes\main.h
+	<iostream>
+	<cstddef>
+	<stddef.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1490679726 source:e:\tubes asd\tubes@rar\tubes\film.cpp
+	"film.h"
+
+1490677777 e:\tubes asd\tubes@rar\tubes\film.h
+	"main.h"
+
+1490668645 source:e:\tubes asd\tubes@rar\tubes\main.cpp
+	<string>
+	<cstddef>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"relasi.h"
+	"film.h"
+	"actor.h"
+	"menu.h"
+
+1490679726 e:\tubes asd\tubes@rar\tubes\relasi.h
+	"actor.h"
+	"film.h"
+
+1490654286 e:\tubes asd\tubes@rar\tubes\menu.h
+	"relasi.h"
+
+1490680006 source:e:\tubes asd\tubes@rar\tubes\relasi.cpp
+	"relasi.h"
+
+1490664846 source:c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\actor.cpp
+	"actor.h"
+
+1490181315 c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\actor.h
+	"main.h"
+
+1490181339 c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\main.h
+	<iostream>
+	<cstddef>
+	<stddef.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1490679726 source:c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\film.cpp
+	"film.h"
+
+1490677777 c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\film.h
+	"main.h"
+
+1490697408 source:c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\main.cpp
+	<string>
+	<cstddef>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"relasi.h"
+	"film.h"
+	"actor.h"
+	"menu.h"
+
+1490679726 c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\relasi.h
+	"actor.h"
+	"film.h"
+
+1490654286 c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\menu.h
+	"relasi.h"
+
+1490680006 source:c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\relasi.cpp
+	"relasi.h"
+
+1490702755 source:c:\users\pc\desktop\codeblocks\tubes_new\tubes@rar\tubes\menu.cpp
+	"menu.h"
+
+1490679726 source:d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\film.cpp
+	"film.h"
+
+1490677777 d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\film.h
+	"main.h"
+
+1490181339 d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\main.h
+	<iostream>
+	<cstddef>
+	<stddef.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1490697408 source:d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\main.cpp
+	<string>
+	<cstddef>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"relasi.h"
+	"film.h"
+	"actor.h"
+	"menu.h"
+
+1490679726 d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\relasi.h
+	"actor.h"
+	"film.h"
+
+1490181315 d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\actor.h
+	"main.h"
+
+1490654286 d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\menu.h
+	"relasi.h"
+
+1490680006 source:d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\relasi.cpp
+	"relasi.h"
+
+1491028419 source:d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\actor.cpp
+	"actor.h"
+
+1490703985 source:d:\#kuliah\#semester 2\std\if4009 - kelompok red hat\program\menu.cpp
+	"menu.h"
+
